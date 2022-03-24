@@ -1,0 +1,243 @@
+{
+  "gato": [
+    {
+      "id": 1,
+      "name": "Equilibrio - F Gatos Adulto",
+      "price": 18090,
+      "image": "./img/data/1.jpg",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+    {
+      "id": 2,
+      "name": "Equilibrio - F Gato Filhote",
+      "price": 50580,
+      "image": "./img/data/2.jpg",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+    {
+      "id": 3,
+      "name": "Miaumor Adulto",
+      "price": 17900,
+      "image": "./img/data/3.png",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+    {
+      "id": 4,
+      "name": "Br For Cat Wild Adulto",
+      "price": 35500,
+      "image": "./img/data/4.png",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+    {
+      "id": 5,
+      "name": "Br For Cat Wild Kitten",
+      "price": 35500,
+      "image": "img/data/5.jpg",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+    {
+      "id": 6,
+      "name": "Evolve Cat Lata Pavo",
+      "price": 7400,
+      "image": "./img/data/6.jpg",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+    },
+  {
+    "id": 7,
+      "name": "Evolve Cat Lata Pavo",
+      "price": 7400,
+      "image": "./img/data/7.png",
+      "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+      "categorie": "Gato"
+  },
+  {
+    "id": 8,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/8.jpg",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 9,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/9.jpg",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 10,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/10.png",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 11,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/11.png",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 12,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/12.jpg",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 13,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/13.jpg",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 14,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/14.png",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 15,
+    "name": "Evolve Cat Lata Pavo",
+    "price": 7400,
+    "image": "./img/data/15.jpg",
+    "description": "Equilibrio Gatos Adultos está pensado para todas las razas de gatos a partir de los 12 meses de vida, contiene ingredientes especiales como, Omegas 3 y 6, que ayuda a un pelo suave y brillante, hexametafosfato de sodio, muy útil en la prevención de la formación del sarro, yucca Schidigera, que contribuye en la disminución del olor de las heces, total hairball control.",
+    "categorie": "Gato"
+  },
+  {
+    "id": 16,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/16.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 17,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/17.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {"id": 18,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/18.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 19,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/19.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 20,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/20.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 21,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/21.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 22,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/22.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 23,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/23.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 24,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/24.jpg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 25,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/25.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 26,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/26.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 27,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/27.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 28,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/28.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 29,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/29.jpeg",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  },
+  {
+    "id": 30,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "price": 7400,
+    "image": "./img/data/30.png",
+    "description": "Fortalece el sistema inmune .mejora la digestión y la metabolización de los alimentos promoviendo la longevidad y el crecimiento sano del perro, es una dieta saludable y natural que ayuda a tener un peso ideal y un lindo pelaje.",
+    "categorie": "Perro"
+  }
+  ]
+}
